@@ -1,0 +1,8 @@
+/* $Id: winres.rc 491 2015-11-18 14:36:50Z sausage $
+ *
+ */
+
+#include "../src/eoserv_windows.h"
+
+MAINICON ICON "icon.ico"
+

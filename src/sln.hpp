@@ -1,0 +1,32 @@
+
+/* $Id: sln.hpp 353 2012-10-06 03:16:39Z sausage $
+ * EOSERV is released under the zlib license.
+ * See LICENSE.txt for more info.
+ */
+
+#ifndef SLN_HPP_INCLUDED
+#define SLN_HPP_INCLUDED
+
+#include "fwd/sln.hpp"
+
+#include "fwd/eoserver.hpp"
+
+/**
+ * Manages checking in with the SLN server regularly
+ */
+class SLN
+{
+	private:
+		EOServer* server;
+
+		void RequestTick();
+		static void* RequestThread(void* void_request);
+		static void TimedRequest(void* void_sln);
+		static void TimedCleanup(void* void_request);
+
+	public:
+		SLN(EOServer* server);
+		void Request();
+};
+
+#endif //SLN_HPP_INCLUDED
