@@ -310,6 +310,7 @@ void eoserv_config_validate_admin(Config &config)
 	eoserv_config_default(config, "setlevel", 3);
 	eoserv_config_default(config, "setexp", 3);
 	eoserv_config_default(config, "setstr", 3);
+	eoserv_config_default(config, "settp", 3);
 	eoserv_config_default(config, "setint", 3);
 	eoserv_config_default(config, "setwis", 3);
 	eoserv_config_default(config, "setagi", 3);
