@@ -63,6 +63,7 @@ Contains IDs and commands for admins
 `$ditem id [amount [x y]] - Drops an item from your inventory on the floor (including "lore" items), optionally at the specified position`
 `$snpc id [amount] - Spawns one (or the specified amount) of an npc with the given ID on the map`
 `$learn id [skilllevel] - Teaches you the spell with the specified ID at the specified level (0 to 100)`
+`$forget id - Forget the spell with the specified ID`
 
 ### Novelty Commands
 

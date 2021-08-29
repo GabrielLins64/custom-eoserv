@@ -2,11 +2,13 @@
 data/maps
 data/pub
 
-# Build stuff
+# Build and executable stuff
 CMakeFiles
 cmake_install.cmake
 CMakeCache.txt
 Makefile
+*-pch.h*
+eoserv
 
 # Log files
 *.log

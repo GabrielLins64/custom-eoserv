@@ -161,6 +161,19 @@ void Learn(const std::vector<std::string>& arguments, Character* from)
 	}
 }
 
+void Forget(const std::vector<std::string>& arguments, Character* from)
+{
+	short skill_id = util::to_int(arguments[0]);
+	short level = -1;
+
+	if (from->DelSpell(skill_id))
+	{
+		PacketBuilder reply(PACKET_STATSKILL, PACKET_REMOVE, 2);
+		reply.AddShort(skill_id);
+		from->Send(reply);
+	}
+}
+
 void QuestState(const std::vector<std::string>& arguments, Character* from)
 {
 	World* world = from->SourceWorld();
@@ -204,6 +217,7 @@ COMMAND_HANDLER_REGISTER(debug)
 	RegisterCharacter({"snpc", {"npc"}, {"amount", "speed", "direction"}, 2}, SpawnNPC, CMD_FLAG_DUTY_RESTRICT);
 	RegisterCharacter({"dnpc", {}, {}, 2}, DespawnNPC, CMD_FLAG_DUTY_RESTRICT);
 	RegisterCharacter({"learn", {"skill"}, {"level"}}, Learn, CMD_FLAG_DUTY_RESTRICT);
+	RegisterCharacter({"forget", {"skill"}}, Forget, CMD_FLAG_DUTY_RESTRICT);
 	RegisterCharacter({"qstate", {"quest", "state"}}, QuestState, CMD_FLAG_DUTY_RESTRICT);
 	RegisterAlias("si", "sitem");
 	RegisterAlias("di", "ditem");
