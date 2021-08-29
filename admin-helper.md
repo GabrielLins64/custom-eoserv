@@ -12,6 +12,7 @@ Contains IDs and commands for admins
   - [Novelty Commands](#novelty-commands)
   - [Character Modification Commands](#character-modification-commands)
 - [Maps ids:](#maps-ids)
+- [NPCs ids](#npcs-ids)
 - [Monsters ids](#monsters-ids)
 - [Items List](#items-list)
   - [Armors](#armors)
@@ -652,6 +653,311 @@ Contains IDs and commands for admins
 277= Ancient Wraith Room
 
 278= Lottery Game
+
+## NPCs ids
+
+1 - Crow
+2 - Rat
+3 - Blob
+4 - Mummy
+5 - Fox
+6 - Snake
+7 - Goat
+8 - Centaur
+9 - Reaper
+10 - Spider
+11 - Barbarian
+12 - Cactusaur
+13 - Penguin
+14 - Cyclops
+15 - Shop Bob
+16 - Bank Bob
+17 - Skeleton
+18 - Skeleton Warrior
+19 - Skeleton Warlock
+20 - Wingo
+21 - Shop Bob
+22 - Shop Bob
+23 - Shop Bob
+24 - Shop Bob
+25 - Bartender
+26 - Juweller
+27 - Merchant
+28 - Drunk
+29 - Fred
+30 - Shoe Maker
+31 - Shoe Maker
+32 - Babs Haircutter
+33 - Shop Bob
+34 - Shop Bob
+35 - Lobster
+36 - Witch
+37 - Nomad
+38 - Shoe Maker
+39 - Shop Bob
+40 - Shop Bob
+41 - Weapon Smith
+42 - Shop Bob
+43 - Shop Bob
+44 - Event Bob
+45 - Remi
+46 - Guild Bob
+47 - Vyercil
+48 - Undeath
+49 - Ice Bob
+50 - Ice Bob
+51 - Chaos Spawn
+52 - Hitaru
+53 - Dan
+54 - Jacob
+55 - Paul
+56 - Guard
+57 - Royal Guard
+58 - Elite Captain
+59 - Blobsie
+60 - Blobsie
+61 - Blobsie
+62 - Blobsie
+63 - Blobsie
+64 - Blobsie
+65 - Blobsie
+66 - Horse
+67 - Unicorn
+68 - Cyclops Guardian
+69 - Birdman Worker
+70 - Birdman Guard
+71 - Birdman Captain
+72 - Birdman Guard
+73 - Inferno
+74 - Wolfman
+75 - Candy
+76 - Hactor
+77 - Bullfrog
+78 - Bullfrog
+79 - Bullfrog
+80 - Stinger
+81 - Bat
+82 - Wurm
+83 - Worm
+84 - Ant Worker
+85 - Ant Soldier
+86 - Teawk
+87 - Marble
+88 - Batmaso
+89 - Jesaurus
+90 - Hedgehog
+91 - Ice Giant
+92 - Ice Crystal
+93 - Gnome
+94 - Gnome Rider
+95 - Rock
+96 - Stone Gollum
+97 - Mushroom
+98 - Taewcus
+99 - Hula Guy
+100 - Cyndi
+101 - Snail
+102 - Snail
+103 - Geggime
+104 - Ewak
+105 - Azuroph
+106 - Kyra
+107 - Chris
+108 - Babarian Captain
+109 - Ariolus
+110 - Rauchel
+111 - Nanchu
+112 - Xmas Shop
+113 - Wraith
+114 - Priest
+115 - Law Bob
+116 - Aeven Skill Master
+117 - Orc
+118 - Octopus
+119 - Tentacle
+120 - Anundo Leader
+121 - Carnivo
+122 - King
+123 - King
+124 - Anundo Skill Master
+125 - Ninja Guard
+126 - Anundo Merchant
+127 - Drunken Pirate
+128 - Drunken Pirate
+129 - Hell Guardian
+130 - Swamp Goblin
+131 - Optica
+132 - Bogo Man
+133 - Butterfly
+134 - Cursed Mask
+135 - Imp
+136 - Imp
+137 - Angry Vine
+138 - Headless Hunter
+139 - Swamp Monster
+140 - Twin Demon
+141 - Dwarf Warrior
+142 - Apozen
+143 - Chest
+144 - Padu
+145 - Crane
+146 - Cyto 053
+147 - Sav 109
+148 - Robo Tile
+149 - Proto
+150 - Aeven InnKeeper
+151 - Princess
+152 - Inventor
+153 - Co Worker
+154 - Adventurer
+155 - Boatman
+156 - Estaw InnKeeper
+157 - Guild Master
+158 - Bank Master
+159 - Anundo InnKeeper
+160 - Centaur InnKeeper
+161 - Halowdale InnKeeper
+162 - Bard
+163 - Halowdale Smith
+164 - Halowdale Grocery
+165 - Gate Keeper
+166 - Wise Man
+167 - Pjedro
+168 - Ayla
+169 - Merriad
+170 - Sheep
+171 - Biter
+172 - Blocto
+173 - Puppter
+174 - King Wurm
+175 - Pirate Captain
+176 - Old Pirate
+177 - Pirate Captain
+178 - Imperial Sea Guard
+179 - Halowdale Smith
+180 - Archeologist
+181 - Tomb Mummy
+182 - Gnoll
+183 - Bone Spider
+184 - Hell Flyer
+185 - Wraith
+186 - Wraith
+187 - Wraith
+188 - Nena
+189 - Guard
+190 - Pjedro's Son
+191 - Shaman
+192 - Jessica
+193 - Wolf Leader
+194 - War Bear
+195 - Serf
+196 - Guillo
+197 - Maze Master
+198 - Doll
+199 - Gullio
+200 - Hitaru
+201 - Rock
+202 - Earth Rock +1
+203 - Earth Rock +60
+204 - Shark
+205 - Baby Turtle
+206 - Christmas Doll
+207 - Dark Magician
+208 - Yeti
+209 - Banshi
+210 - Drone Flyer
+211 - Merchant
+212 - Butter
+213 - Alex
+214 - Flombie
+215 - Gator
+216 - Phoenix
+217 - Bale
+218 - Espring
+219 - Ludwig
+220 - Rotveig
+221 - Susan
+222 - Cacadem
+223 - Flowy
+224 - Nutviper
+225 - Dragon
+226 - Flyman
+227 - Vitaman
+228 - Onigiri
+229 - Rabther
+230 - Piglet
+231 - Piglet
+232 - Tenba
+233 - Alex Borg
+234 - Drummer
+235 - Rock Star
+236 - Rock Daddy
+237 - Piano Panda
+238 - Mini Army
+239 - Artist
+240 - Hamster
+241 - Mole
+242 - Fish
+243 - Lizzy
+244 - Ape
+245 - Teawkasar
+246 - Teawcusar
+247 - Young Pirate
+248 - Tarentuda
+249 - Monkey
+250 - Lost Pirate
+251 - Peri Peri Farmer
+252 - Pig Farmer
+253 - Dragon Warrior
+254 - Wraith Guardian
+255 - Ancient Wraith
+256 - Apozen's Taraduda
+257 - Apozen Overlord
+258 - Cave Researcher
+259 - Collector
+260 - Defender
+261 - Funky Hair Dude
+262 - Ben
+263 - Eddy
+264 - Danny
+265 - Aeven Soldier
+266 - Aeven Captain
+267 - Aeven Soldier
+268 - Mommy
+269 - Old Farmer Jorge
+270 - Fierce Rat
+271 - Old Farmer Jerzy
+272 - Peasant Woman
+273 - Old Farmer Greg
+274 - Corrupt Guard
+275 - Aeven Border Guard
+276 - Aeven Border Guard
+277 - Aeven Patroller
+278 - Aeven Patroller
+279 - Babs
+280 - Steve
+281 - Limbo Sailor
+282 - Centaur Guard
+283 - Rescue Worker
+284 - Rescue Leader
+285 - Inspection Guard
+286 - Lost Boy
+287 - Baby Turtle
+288 - Castle Hedgehod
+289 - Royal Gardener
+290 - Snake Hunter
+291 - Ash
+292 - Borum
+293 - Life Guard
+294 - Royal Explorer
+295 - Stronghold Explorer
+296 - Stronghold Sentry
+297 - Dream Crystal
+298 - Royal Guard
+299 - Big Throat
+300 - Prisoner
+301 - Shady Stefano
+302 - Eddie Matador
 
 ## Monsters ids
 

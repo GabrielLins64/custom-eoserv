@@ -1,6 +1,7 @@
 <h1>Custom EOServ</h1>
 
 This is a custom version of EOServ (acknowledgements to Julian Smythe) for purely study and hobby purposes.
+The .ini files in `data` and `config` directories aren't owned by me, and they will be modified.
 
 ---
 
