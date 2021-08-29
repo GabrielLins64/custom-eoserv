@@ -1,3 +1,15 @@
 # Not sharing maps and pubs for copyrights reasons
 data/maps
 data/pub
+
+# Build stuff
+CMakeFiles
+cmake_install.cmake
+CMakeCache.txt
+Makefile
+
+# Log files
+*.log
+
+# Credentials files
+credentials.txt
