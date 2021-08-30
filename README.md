@@ -10,6 +10,8 @@ The .ini files in `data` and `config` directories aren't owned by me, and they w
   - [Obtain the source](#obtain-the-source)
   - [Compiling](#compiling)
 - [Running the server](#running-the-server)
+- [Development Tools](#development-tools)
+  - [SQLiteBrowser](#sqlitebrowser)
 
 ---
 
@@ -50,3 +52,10 @@ To compile it after changing the code, just do:
 `$ make`
 
 and restart the server.
+
+# Development Tools
+
+## SQLiteBrowser
+
+Useful cross-platform SQLite admin for managing the database.
+Download: [SQLiteBrowser](https://sqlitebrowser.org/)

@@ -21,6 +21,7 @@ Contains IDs and commands for admins
   - [Weapons](#weapons)
   - [Other Equips](#other-equips)
   - [Normal Items](#normal-items)
+- [Spells](#spells)
 - [Class List](#class-list)
 
 ---
@@ -38,6 +39,7 @@ Contains IDs and commands for admins
 `$kick character - Kicks a player from the server. They can log back in immediately`
 `$skick character - Same as $kick, but without a server announcement`
 `$jail character - Warps a player to the jail specified in the server configuration`
+`$unjail character - Unjail player`
 `$sjail character - Same as $jail, but without a server announcement`
 `$ban character time - Kicks a player from the server and prevents them logging back in for the specified time. Example time values are: 5m, 1h, 2w, forever`
 `$sban character time - Same as $ban, but without a server announcement`
@@ -3030,7 +3032,7 @@ Love Letter (7)
 
 Flower Bouquet (6)
 
-Spell List------------------------------
+## Spells
 
 Green Flame (31)
 
